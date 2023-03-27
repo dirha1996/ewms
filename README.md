@@ -20,5 +20,4 @@ File database bisa ditemukan di /assets/db/easy_wms.sql
 | Admin		| edi.nugraha@sansico.com					| qwerty123  	  |
 | Nugraha	| Stafflogistik@sansico.com				| qwerty123     |
 
-<img src="/assets/images/users.png" alt="Tabel User" height="105">
 
